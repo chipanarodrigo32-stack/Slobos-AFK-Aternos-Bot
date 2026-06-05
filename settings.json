@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mybestserv.falixsrv.me",
-    "port": 22874,
+    "ip": "friend23.aternos.me",
+    "port": 31355
     "version": "26.1.2",
     "try-creative": false
   },
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "XD"
       ]
     },
     "chat-log": true,
