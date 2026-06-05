@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dynamic-10.magmanode.com",
-    "port": 25691,
-    "version": "26.2",
+    "ip": "mybestserv.falixsrv.me",
+    "port": 22874,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
