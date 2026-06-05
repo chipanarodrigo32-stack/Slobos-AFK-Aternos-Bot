@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "friend23.aternos.me",
-    "port": 31355
-    "version": "26.1.2",
+    "port": 31355,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
