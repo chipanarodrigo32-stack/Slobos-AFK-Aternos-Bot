@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friend23.aternos.me",
-    "port": 31355,
+    "ip": "friends23.joinmc.world",
+    "port": 23744,
     "version": "1.21",
     "try-creative": false
   },
